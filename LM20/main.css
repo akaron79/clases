@@ -1,0 +1,18 @@
+section {
+    display: inline-block;
+    /* float: left; */
+    width: 32.3%;
+    /* padding-left: 1em; */
+    margin: auto;
+    text-align: center;
+    border: 1px dashed tomato;
+    box-sizing: border-box;
+}
+
+@media (max-width: 920px) {
+  img {
+      width: 50%;
+      /* height: 50%; */
+  }
+}
+
