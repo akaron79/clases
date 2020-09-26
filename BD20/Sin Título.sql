@@ -1,4 +1,4 @@
 SELECT *
 FROM countries
-WHERE
+WHERE country_id = 'AR'
 ;
